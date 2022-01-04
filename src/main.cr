@@ -16,6 +16,8 @@ module Chip8
 
       @in_menu = true
 
+      @display.window.title = "Buttons: 1234 qwer asdf zxcv; Menu: <Esc>"
+
       clock = SF::Clock.new
       while @display.window.open?
         handle_events

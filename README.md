@@ -42,6 +42,8 @@ a s d f
 z x c v
 ```
 
+![Screenshot](/screenshot.png)
+
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/chip8/fork>)
